@@ -1,25 +1,19 @@
-# userhali.com 站点声明页
+# UserHali
 
-`index.html` — 单文件、零依赖、无 JavaScript 的域名合法性声明页。
+[userhali.com](https://userhali.com) 站点声明页源码。
 
-## 用途
+个人站点，个人非商业用途。所有项目开源于 [github.com/haliChina](https://github.com/haliChina)。
 
-作为 userhali.com 的公开声明：个人非商业用途、全部项目开源、无文件分发、无 C2 端口。
-供滥用投诉（abuse report）审核方快速核验事实，降低恶意伪造投诉的杀伤力。
+纯 HTML + 少量 JS（仅语言切换），无任何依赖、无构建步骤、无外部资源。
 
-## 内容要点
+## License
 
-1. 本站为个人域名、个人用途，托管于 Vercel
-2. 所有项目在 github.com/haliChina 开源，可自行审查
-3. 致审查方的事实表：仅开放 80/443、无下载、无在线服务端口
-4. 对"沙箱样本连接记录"的说明（尝试连接 ≠ 运营 C2）
+本项目源码以最严格的方式保留所有权利：
 
-## 设计
+**All Rights Reserved.**
 
-早期网页风格：衬线字体、蓝色默认链接、简单表格与分隔线、无 JS、无外部资源。
-单 HTML 文件，任何静态托管可直接使用。
+未经版权持有人事先书面许可，任何人不得复制、修改、分发、再许可或以任何形式使用本仓库中的任何内容，个人学习参考浏览除外。
 
-## 部署
+本声明不构成任何开源许可证的授予。若未来更改许可条款，以仓库内最新声明为准。
 
-放到 userhali.com 根路径即可（或作为 /about 静态页）。建议同时在站点其他页面页脚
-链接到本页，形成"公开声明长期有效"的证据。
+Copyright (c) 2026 haliChina. All rights reserved.
